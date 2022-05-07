@@ -6,7 +6,7 @@
 
 ## You need to add bootstrap dependency
     
-### 'npm install bootstrap'
+### `npm install bootstrap`
 
 ### `npm start`
 
