@@ -1,12 +1,12 @@
 #  REACTJS CV Templete
 
 ## Screen Shot
-    ![First Photo](demoPhotos/1.png) <br/>
-    ![Second Photo](demoPhotos/2.png) <br/>
+![First Photo](demoPhotos/1.png) <br/>
+![Second Photo](demoPhotos/2.png) <br/>
 
 ## You need to add bootstrap dependency
     
-### npm install bootstrap
+### 'npm install bootstrap'
 
 ### `npm start`
 
