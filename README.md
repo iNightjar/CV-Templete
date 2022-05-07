@@ -1,16 +1,12 @@
 #  REACTJS CV Templete
- ## Screen Shot
+
+## Screen Shot
     ![First Photo](demoPhotos/1.png) <br/>
     ![Second Photo](demoPhotos/2.png) <br/>
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## You need to add bootstrap dependency
+    
+### npm install bootstrap
 
 ### `npm start`
 
