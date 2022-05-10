@@ -3,7 +3,7 @@
 ## Screen Shot
 
 <img src="demoPhotos/1.png" alt="ScreenShot" width="400"/>
-
+<img src="demoPhotos/2.png" alt="ScreenShot" width="400"/>
 <!-- ![First Photo](demoPhotos/1.png) <br/>
 ![Second Photo](demoPhotos/2.png) <br/> -->
 
