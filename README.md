@@ -1,8 +1,11 @@
 #  REACTJS CV Templete
 
 ## Screen Shot
-![First Photo](demoPhotos/1.png) <br/>
-![Second Photo](demoPhotos/2.png) <br/>
+
+<img src="demoPhotos/1.png" alt="ScreenShot" width="400"/>
+
+<!-- ![First Photo](demoPhotos/1.png) <br/>
+![Second Photo](demoPhotos/2.png) <br/> -->
 
 ## You need to add bootstrap dependency
     
