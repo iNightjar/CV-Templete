@@ -18,7 +18,7 @@ class Foot extends React.Component {
                 </a>
                 <a href="#"></a>
                 <p>
-                    Powered by <a href="#">Mo35</a>
+                    Powered by <a href="#">iNightjar</a>
                 </p>
             </footer>
         );
